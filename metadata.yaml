@@ -1,0 +1,26 @@
+_repo: Medical-Women-Two-Essays_52297
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jex-Blake, Sophia
+    birthdate: 1840
+    deathdate: 1912
+    gutenberg_agent_id: '46771'
+    url: http://www.gutenberg.org/2009/agents/46771
+    wikipedia: https://en.wikipedia.org/wiki/Sophia_Jex-Blake
+description: ''
+gutenberg_issued: '2016-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52297'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'R'
+- !lcsh 'Women in medicine'
+- GITenberg
+tableOfContents: Medicine as a profession for women -- Medical education of women.
+title: 'Medical Women: Two Essays'
+url: http://www.gutenberg.org/ebooks/52297
