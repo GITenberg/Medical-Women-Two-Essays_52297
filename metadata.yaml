@@ -1,5 +1,8 @@
 _repo: Medical-Women-Two-Essays_52297
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52297-h/images/cover.jpg
 creator:
   author:
     agent_name: Jex-Blake, Sophia
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46771
     wikipedia: https://en.wikipedia.org/wiki/Sophia_Jex-Blake
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52297#Medical-Women-Two-Essays
 gutenberg_issued: '2016-06-10'
 gutenberg_type: Text
 identifiers:
